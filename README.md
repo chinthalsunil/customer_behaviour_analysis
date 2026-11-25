@@ -12,7 +12,7 @@ The objective is to transform raw data into actionable insights using Python, SQ
 
 - **Dataset Name:** Customer Shopping Behavior Dataset
 - **File Format:** CSV
-- **Data Source:** [Add Dataset Source]
+- **Data Source:** "C:\Users\chint\OneDrive\文档\customer_shopping_behavior .xlsx"
 - **Description:** Contains customer shopping information, purchasing patterns, product categories, discounts, payment methods, and transaction details.
 
 The dataset is used to analyze customer behavior, sales performance, revenue contribution, and purchasing trends.
@@ -68,16 +68,7 @@ The dataset is used to analyze customer behavior, sales performance, revenue con
 - Added slicers and filters for dynamic analysis.
 - Highlighted important business metrics and trends.
 
-### Step 6: Report Generation
-- Summarized the analysis findings.
-- Presented important KPIs and business insights.
-- Highlighted trends, patterns, and recommendations.
-- Created a structured project report.
 
-### Step 7: Project Presentation
-- Prepared a professional PowerPoint presentation using Gamma AI.
-- Presented the project objective, methodology, analysis, dashboard, and key findings.
-- Summarized actionable business recommendations.
 
 ## 5. Power BI Dashboard
 
@@ -95,9 +86,9 @@ The Power BI dashboard provides an interactive overview of customer shopping beh
 
 **Dashboard Preview:**
 
-<!-- Add your Power BI dashboard screenshot here -->
+<!-- Add your Power BI dashb"C:\Users\chint\OneDrive\Pictures\Screenshots\Screenshot 2026-11-25 081623.png"oard screenshot here -->
 
-![Power BI Dashboard](images/dashboard.png)
+![Power BI Dashboard] : "C:\Users\chint\OneDrive\Pictures\Screenshots\Screenshot 2026-11-25 081623.png"
 
 ## 6. Key Results & Business Insights
 
@@ -211,12 +202,12 @@ Open the project report and presentation files available in their respective fol
 
 ## 10. Author
 
-**Your Name**
+CHINTHAL SUNIL 
 
 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- GitHub: https://github.com/chinthalsunil
+- LinkedIn= https://www.linkedin.com/in/chinthal-sunil-7395a3340?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ---
 
