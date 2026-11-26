@@ -90,6 +90,9 @@ The Power BI dashboard provides an interactive overview of customer shopping beh
 
 ![Power BI Dashboard] : "C:\Users\chint\OneDrive\Pictures\Screenshots\Screenshot 2026-11-25 081623.png"
 
+
+
+
 ## 6. Key Results & Business Insights
 
 The analysis focuses on identifying insights that can help businesses improve their sales and customer strategies.
@@ -144,7 +147,7 @@ E-Commerce-Data-Analytics/
 Install the following tools:
 
 - Python 3.x
-- Jupyter Notebook or Google Colab
+-  Google Colab
 - PostgreSQL / MySQL / SQL Server
 - Power BI Desktop
 
